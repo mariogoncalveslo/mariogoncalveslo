@@ -1,12 +1,12 @@
-<div align="center">
-
 # 👨🏻‍💻 Mário Lô
 
-## 💻Backend Developer
+## 💻 Backend Developer
+<div align="center">
 🏗️ Construindo sistemas que não apenas funcionam, mas resistem, escalam e contam histórias através de arquitetura.
+</div>
 
 ## 🧠 About me
-
+<div align="center">
 My name is Mário, I'm a Backend Developer with experience in building solutions for large-scale systems, mainly in the financial sector. I work with modern architectures based on microservices, always seeking performance, resilience and best practices.
 
 I'm driven by coffee ☕ and technical curiosity — I like to understand how things work under the hood, from messaging to observability.
@@ -25,13 +25,9 @@ I'm driven by coffee ☕ and technical curiosity — I like to understand how th
 </div>
 </div>
 
-<div align="center">
-
 <p align="center"> <a href="https://github.com/mariogoncalveslo?tab=repositories&sort=stargazers"> <img alt="Total stars" title="Total GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/mariogoncalveslo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars" /> </a> <a href="https://github.com/mariogoncalveslo?tab=followers"> <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mariogoncalveslo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" /> </a> </p>
 
 ## 🤖 Languages and Technologies
-
-</div>
 
 <div align="center">
 
@@ -64,5 +60,3 @@ I'm driven by coffee ☕ and technical curiosity — I like to understand how th
 ## 🔥 Streak
 
 <p align="center"> <img alt="GitHub Streak" height="200" src="https://streak-stats.demolab.com?user=mariogoncalveslo&theme=tokyonight&locale=en" /> </p>
-
-</div>
