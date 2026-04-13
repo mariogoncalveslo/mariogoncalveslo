@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨🏻‍💻 Mário Lô
+# 👋 I'm Mário Lô
 
 ## 💻 Backend Developer
 🏗️ Building systems that not only work, but endure, scale, and tell stories through architecture.
