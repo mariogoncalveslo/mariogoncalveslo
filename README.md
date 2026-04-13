@@ -49,6 +49,8 @@ I'm driven by coffee ☕ and technical curiosity — I like to understand how th
 
 </div>
 
+<!-- </div>
+
 <div align="center">
 
 ## 📊 Statistics
@@ -57,7 +59,7 @@ I'm driven by coffee ☕ and technical curiosity — I like to understand how th
 
 <img alt="Technologies" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariogoncalveslo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 
-</p>
+</p> -->
 
 ## 🔥 Streak
 
