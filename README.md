@@ -3,7 +3,7 @@
 # 👨🏻‍💻 Mário Lô
 
 ## 💻 Backend Developer
-🏗️ Construindo sistemas que não apenas funcionam, mas resistem, escalam e contam histórias através de arquitetura.
+🏗️ Building systems that not only work, but endure, scale, and tell stories through architecture.
 </div>
 
 ## 🧠 About me
