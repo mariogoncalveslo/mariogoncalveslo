@@ -1,7 +1,8 @@
+<div align="center">
+
 # 👨🏻‍💻 Mário Lô
 
 ## 💻 Backend Developer
-<div align="center">
 🏗️ Construindo sistemas que não apenas funcionam, mas resistem, escalam e contam histórias através de arquitetura.
 </div>
 
@@ -13,6 +14,8 @@ I'm driven by coffee ☕ and technical curiosity — I like to understand how th
 </div>
 
 <div align="center">
+
+##
 <div style="text-align: left; display: inline-block;">
 
 ☕ Coffee is not optional, it's a runtime dependency  
